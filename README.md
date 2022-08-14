@@ -27,7 +27,7 @@
       <a href="https://aws.amazon.com/" target="_blank">
         <img src="imagens/aws.png" width="48" height="48" alt="Amazon Web Service" />
       </a>
-      <br> Amazon Web Service
+      <br> AWS
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/">
@@ -41,7 +41,7 @@
       </a>
       <br> Kubernetes
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.ansible.com/" target="_blank">
         <img src="imagens/ansible.png" width="48" height="48" alt="Ansible" />
       </a>
@@ -53,39 +53,11 @@
       </a>
       <br> Terraform
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
-    <br>
       <a href="https://www.chef.io/">
         <img src="imagens/chef.png" width="48" height="48" alt="Chef" />
       </a>
       <br> Chef
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <!-- <img src="/terraform.png" width="48" height="48" alt="Terraform" /> -->
-      </a>
-      <!-- <br> Terraform -->
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <!-- <img src="/terraform.png" width="48" height="48" alt="Terraform" /> -->
-      </a>
-      <!-- <br> Terraform -->
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <!-- <img src="/terraform.png" width="48" height="48" alt="Terraform" /> -->
-      </a>
-      <!-- <br> Terraform -->
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <!-- <img src="/terraform.png" width="48" height="48" alt="Terraform" /> -->
-      </a>
-      <!-- <br> Terraform -->
     </td>
   </tr>
 </table>
