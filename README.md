@@ -66,8 +66,8 @@
 <center>
 <table>
   <tr>
-    <td><img align="left" padding-right="5px" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=gotham></td>
-    <td><img align="left" padding-left="5px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&layout=compact&theme=gotham></td>
+    <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=gotham></td>
+    <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&layout=compact&theme=gotham></td>
   </tr>  
 </table>
 </center>
