@@ -57,8 +57,8 @@
   </tr>
 </table>
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </center>
 
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-d88d20?style=for-the-badge&logo=linkedin&logoColor=white&link
