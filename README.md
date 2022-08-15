@@ -54,8 +54,11 @@
   <tr>
     <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
     <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
-  </tr>  
+  </tr>
 </table>
+
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </center>
 
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-d88d20?style=for-the-badge&logo=linkedin&logoColor=white&link
