@@ -20,9 +20,6 @@
 
 > 🇺🇸 Tools, languages, and other things that I'm interested in:
 
-<!-- ALL-TOPICS-LIST:START -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <center>
 <table>
   <tr>
@@ -31,8 +28,8 @@
     <td align="center"><a href="https://www.ansible.com/"><img src="imagens/ansible.png" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><a href="https://kernel.org/"><img src="imagens/linux.png" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
     <td align="center"><a href="https://www.python.org/"><img src="imagens/python.png" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="https://go.dev/"><img src="imagens/Go.png" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href=""><img src="imagens/jenkins.png" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="https://go.dev/"><img src="imagens/go.png" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href="https://www.jenkins.io/"><img src="imagens/jenkins.png" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.shellscript.sh/"><img src="imagens/bash.png" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
@@ -48,9 +45,6 @@
   </tr>
 </table>
 </center>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-TOPICS-LIST:END -->
 
 <br />
 
