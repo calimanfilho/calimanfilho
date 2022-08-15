@@ -6,79 +6,80 @@
 [![Counter][counter-badge]][counter-url]
 </div>
 
-<br>
+<br />
 
 ## :raising_hand: Hello / Olá
 🇧🇷 `Olá, meu nome é Esmael, tenho 28 anos e sou supervisor de TI. Estou buscando por uma transição de carreira para DevOps. Essa conta é um laboratório de estudos, idéias e recursos para mim e outros desenvolvedores que compartilham o mesmo objetivo de produzir algo útil.`
 
 🇺🇸 `Hello my name is Esmael, I'm 28 years old and I'm an IT supervisor. I'm looking for a career transition to DevOps. This account is a research lab, ideas and resources for me and other developers who share the same goal of making something useful.`
-<br>
+
+<br />
 
 ## :rocket: Interesses (*Interests*)
 > 🇧🇷 Ferramentas, linguagens e outras coisas que tenho interesse:
 
 > 🇺🇸 Tools, languages, and other things that I'm interested in:
 
-<table align="center">
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="imagens/aws.png" width="48" height="48" alt="Amazon Web Service" />
-      </a>
-      <br> AWS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="imagens/docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br> Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://kubernetes.io/>">
-        <img src="imagens/kubernetes.png" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br> Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.ansible.com/" target="_blank">
-        <img src="imagens/ansible.png" width="48" height="48" alt="Ansible" />
-      </a>
-      <br> Ansible
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <img src="imagens/terraform.png" width="48" height="48" alt="Terraform" />
-      </a>
-      <br> Terraform
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.chef.io/">
-        <img src="imagens/chef.png" width="48" height="48" alt="Chef" />
-      </a>
-      <br> Chef
-    </td>
+    <td align="center"><a href="https://devops.com/"><img src="imagens/devops.png" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="imagens/git.png" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
+    <td align="center"><a href="https://www.ansible.com/"><img src="imagens/ansible.png" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
+    <td align="center"><a href="https://kernel.org/"><img src="imagens/linux.png" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="imagens/python.png" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="https://go.dev/"><img src="imagens/Go.png" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href=""><img src="imagens/jenkins.png" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.shellscript.sh/"><img src="imagens/bash.png" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+    <td align="center"><a href="https://kubernetes.io/"><img src="imagens/kubernetes.png" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="imagens/docker.png" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
+    <td align="center"><a href="https://prometheus.io/"><img src="imagens/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="imagens/aws.png" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
+    <td align="center"><a href="https://www.terraform.io/"><img src="imagens/terraform.png" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+    <td align="center"><a href="https://www.chef.io/"><img src="imagens/chef.png" height="75px;" alt="Chef"/><br /><b>Chef</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://puppet.com/"><img src="imagens/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
 
-<br>
+<br />
 
 ## :octocat: Estatísticas (*Stats*)
 <center>
 <table>
   <tr>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=gotham></td>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&layout=compact&theme=gotham></td>
+    <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
+    <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
   </tr>  
 </table>
 </center>
 
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-d88d20?style=for-the-badge&logo=linkedin&logoColor=white&link
 [linkedin-url]: https://www.linkedin.com/in/calimanfilho/
-[instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-badge]: https://img.shields.io/badge/Instagram-d88d20?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/calimanfilho/
-[gmail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-badge]: https://img.shields.io/badge/Gmail-d88d20?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calimanfilho@gmail.com
-[medium-badge]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/
-[counter-badge]: https://komarev.com/ghpvc/?username=calimanfilho&color=brightgreen&style=for-the-badge
+[medium-badge]: https://img.shields.io/badge/Medium-d88d20?style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://medium.com/@calimanfilho
+[counter-badge]: https://komarev.com/ghpvc/?username=calimanfilho&color=d88d20&style=for-the-badge
 [counter-url]: https://github.com/calimanfilho
+
+<!--
+*** As cores padrões de cada rede social são:
+*** LinkedIn-0077B5
+*** Instagram-E4405F
+*** Gmail-D14836
+*** Medium-12100E
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
