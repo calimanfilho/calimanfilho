@@ -49,27 +49,29 @@
 <br />
 
 ## :octocat: Estatísticas (*Stats*)
-<center>
-<table>
-  <tr>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
-    <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&show_icons=true&theme=great-gatsby></td>
-  </tr>
-</table>
+
+<div align="center">
+  <a href="https://github.com/calimanfilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-</center>
 
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-d88d20?style=for-the-badge&logo=linkedin&logoColor=white&link
+</div>
+
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&link
 [linkedin-url]: https://www.linkedin.com/in/calimanfilho/
-[instagram-badge]: https://img.shields.io/badge/Instagram-d88d20?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-badge]: https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/calimanfilho/
-[gmail-badge]: https://img.shields.io/badge/Gmail-d88d20?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-badge]: https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calimanfilho@gmail.com
-[medium-badge]: https://img.shields.io/badge/Medium-d88d20?style=for-the-badge&logo=medium&logoColor=white
+[medium-badge]: https://img.shields.io/badge/Medium-282A36?style=for-the-badge&logo=medium&logoColor=white
 [medium-url]: https://medium.com/@calimanfilho
-[counter-badge]: https://komarev.com/ghpvc/?username=calimanfilho&color=d88d20&style=for-the-badge
+[counter-badge]: https://komarev.com/ghpvc/?username=calimanfilho&color=282A36&style=for-the-badge
 [counter-url]: https://github.com/calimanfilho
 
 <!--
