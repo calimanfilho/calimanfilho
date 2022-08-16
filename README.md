@@ -20,8 +20,7 @@
 
 > 🇺🇸 Tools, languages, and other things that I'm interested in:
 
-<center>
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
     <td align="center"><a href="https://www.ansible.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
@@ -41,7 +40,6 @@
     <td align="center"><a href="https://puppet.com/"><img src="imagens/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
-</center>
 
 <br />
 
