@@ -23,24 +23,21 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://devops.com/"><img src="imagens/devops.png" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="imagens/git.png" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
-    <td align="center"><a href="https://www.ansible.com/"><img src="imagens/ansible.png" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
-    <td align="center"><a href="https://kernel.org/"><img src="imagens/linux.png" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
-    <td align="center"><a href="https://www.python.org/"><img src="imagens/python.png" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="https://go.dev/"><img src="imagens/go.png" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="https://www.jenkins.io/"><img src="imagens/jenkins.png" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
+    <td align="center"><a href="https://www.ansible.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
+    <td align="center"><a href="https://kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href="https://www.jenkins.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="https://www.shellscript.sh/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.shellscript.sh/"><img src="imagens/bash.png" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
-    <td align="center"><a href="https://kubernetes.io/"><img src="imagens/kubernetes.png" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
-    <td align="center"><a href="https://www.docker.com/"><img src="imagens/docker.png" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
-    <td align="center"><a href="https://prometheus.io/"><img src="imagens/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-    <td align="center"><a href="https://aws.amazon.com/"><img src="imagens/aws.png" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
-    <td align="center"><a href="https://www.terraform.io/"><img src="imagens/terraform.png" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+    <td align="center"><a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
+    <td align="center"><a href="https://prometheus.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
+    <td align="center"><a href="https://www.terraform.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
     <td align="center"><a href="https://www.chef.io/"><img src="imagens/chef.png" height="75px;" alt="Chef"/><br /><b>Chef</b></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://puppet.com/"><img src="imagens/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
