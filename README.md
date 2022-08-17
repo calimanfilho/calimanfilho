@@ -9,9 +9,9 @@
 <br />
 
 ## :raising_hand: Olá / *Hello*
-🇧🇷 `Olá, meu nome é Esmael, tenho 28 anos e sou supervisor de TI. Estou buscando por uma transição de carreira para DevOps. Essa conta é um laboratório de estudos, idéias e recursos para mim e outros desenvolvedores que compartilham o mesmo objetivo de produzir algo útil.`
+> 🇧🇷 Olá, meu nome é Esmael, tenho 28 anos e sou supervisor de TI. Estou buscando por uma transição de carreira para DevOps. Essa conta é um laboratório de estudos, idéias e recursos para mim e outros desenvolvedores que compartilham o mesmo objetivo de produzir algo útil.
 
-🇺🇸 `Hello my name is Esmael, I'm 28 years old and I'm an IT supervisor. I'm looking for a career transition to DevOps. This account is a research lab, ideas and resources for me and other developers who share the same goal of making something useful.`
+> 🇺🇸 Hello my name is Esmael, I'm 28 years old and I'm an IT supervisor. I'm looking for a career transition to DevOps. This account is a research lab, ideas and resources for me and other developers who share the same goal of making something useful.
 
 <br />
 
