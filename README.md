@@ -36,8 +36,8 @@
     <td align="center"><a href="https://prometheus.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
     <td align="center"><a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="https://www.terraform.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-    <td align="center"><a href="https://www.chef.io/"><img src="imagens/chef.png" height="75px;" alt="Chef"/><br /><b>Chef</b></a></td>
-    <td align="center"><a href="https://puppet.com/"><img src="imagens/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
+    <td align="center"><a href="https://www.chef.io/"><img src="images/chef.png" height="75px;" alt="Chef"/><br /><b>Chef</b></a></td>
+    <td align="center"><a href="https://puppet.com/"><img src="images/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
 
