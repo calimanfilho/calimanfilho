@@ -9,9 +9,9 @@
 <br />
 
 ## :raising_hand: Olá / *Hello*
-> 🇧🇷 Olá, meu nome é Esmael, tenho 28 anos e sou supervisor de TI. Estou buscando por uma transição de carreira para DevOps. Essa conta é um laboratório de estudos, idéias e recursos para mim e outros desenvolvedores que compartilham o mesmo objetivo de produzir algo útil.
+> 🇧🇷 Olá, meu nome é Esmael, sou Analista DevOps na DNX Brasil, trabalho com AWS, Terraform e Pulumi.
 
-> 🇺🇸 Hello my name is Esmael, I'm 28 years old and I'm an IT supervisor. I'm looking for a career transition to DevOps. This account is a research lab, ideas and resources for me and other developers who share the same goal of making something useful.
+> 🇺🇸 Hello my name is Esmael, I'm a DevOps Analyst at DNX Brasil, I work with AWS, Terraform and Pulumi.
 
 <br />
 
@@ -23,21 +23,13 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
-    <td align="center"><a href="https://www.ansible.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><a href="https://kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
     <td align="center"><a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="https://www.jenkins.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
     <td align="center"><a href="https://www.shellscript.sh/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
-    <td align="center"><a href="https://prometheus.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
     <td align="center"><a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="https://www.terraform.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-    <td align="center"><a href="https://www.chef.io/"><img src="images/chef.png" height="75px;" alt="Chef"/><br /><b>Chef</b></a></td>
-    <td align="center"><a href="https://puppet.com/"><img src="images/puppet.png" height="75px;" alt="Puppet"/><br /><b>Puppet</b></a></td>
   </tr>
 </table>
 
