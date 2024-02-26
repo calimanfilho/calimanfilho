@@ -28,7 +28,7 @@
     <td align="center"><a href="https://www.shellscript.sh/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
     <td align="center"><a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
-    <td align="center"><a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="https://www.terraform.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
   </tr>
 </table>
