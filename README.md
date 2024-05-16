@@ -1,7 +1,7 @@
 <div align="center">
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
-[![Instagram][instagram-badge]][linkedin-url]
+[![Instagram][instagram-badge]][instagram-url]
 [![Gmail][gmail-badge]][gmail-url]
 [![Counter][counter-badge]][counter-url]
 </div>
