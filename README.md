@@ -50,7 +50,7 @@
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&link
 [linkedin-url]: https://www.linkedin.com/in/calimanfilho/
 [instagram-badge]: https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/calimanfilho/
+[instagram-url]: https://www.instagram.com/_calimanfilho/
 [gmail-badge]: https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calimanfilho@gmail.com
 [medium-badge]: https://img.shields.io/badge/Medium-282A36?style=for-the-badge&logo=medium&logoColor=white
