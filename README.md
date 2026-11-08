@@ -35,18 +35,6 @@
 
 <br />
 
-## :octocat: Estatísticas / *Stats*
-
-<div align="center">
-  <!--
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=calimanfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calimanfilho&layout=compact&langs_count=7&theme=dracula"/>
-  -->
-  
-  ![Snake Animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![Snake Animation](https://raw.githubusercontent.com/calimanfilho/calimanfilho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-</div>
-
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&link
 [linkedin-url]: https://www.linkedin.com/in/calimanfilho/
 [instagram-badge]: https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white
